@@ -8,3 +8,5 @@ line 3...master
 line 4...my-branch
 
 line 5...my-branch
+
+line 7...my-branch
