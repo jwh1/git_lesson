@@ -10,3 +10,5 @@ line 4...my-branch
 line 5...my-branch
 
 line 7...my-branch
+
+line 9...my-branch
